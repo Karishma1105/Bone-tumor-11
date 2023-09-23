@@ -17,7 +17,7 @@ Import Libraries: Import the necessary Python libraries, including pandas for da
 
 Load Data: Load the bone tumor dataset from a CSV file (bone_tumor_data.csv) into a Pandas DataFrame.
 
-Data Preprocessing: This section typically includes cleaning the data, handling missing values, and performing feature engineering. The actual code for this section will depend on the specific characteristics of your dataset.
+Data Preprocessing: This section typically includes cleaning the data, handling missing values, and performing feature engineering. The actual code for this section will depend on the specific characteristics of the dataset.
 
 Split Data: Split the data into training and testing sets using train_test_split from scikit-learn. This is essential for evaluating the machine learning model.
 
